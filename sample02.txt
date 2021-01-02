@@ -1,9 +1,6 @@
 這是git測試檔案-------02
 
 2021/1/2 added record
-<<<<<<< HEAD
 modified by user1
-=======
-
 modigied by user2
->>>>>>> d4910bb100ef5ea7bad6fddb1010ef73f9daf4cc
+
